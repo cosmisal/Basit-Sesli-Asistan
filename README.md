@@ -7,5 +7,3 @@
  
    [SpeechRecognition]: <https://pypi.org/project/SpeechRecognition/>
    [PyAudio]: <https://pypi.org/project/PyAudio/>
- 
-
