@@ -1,5 +1,4 @@
 # Basit-Sesli-Asistan
----
 #### Sesli Asistan
  * **Türkçe sesli komutları alıp, belirlenen işlemleri yapan basit bir sesli asistan uygulaması örneği.** 
 
